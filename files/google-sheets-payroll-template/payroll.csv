@@ -1,0 +1,6 @@
+Payroll ID,Pay period ID,Employee ID,Employee,Regular hours,Overtime hours,Regular rate override (optional),Regular rate (USD/hr),Overtime rate override (optional),Overtime rate (USD/hr),Other earnings (USD),Gross pay (USD),Tax withholding (USD),Benefits deducted (USD),Other deductions (USD),Total deductions (USD),Net pay (USD),Payment status,Paid date,Payment reference,Notes,Unapproved hours rows,Hours issues
+PR001,P001,E001,Jordan Reed,40,2,,25,,37.5,50,1125,120,15,10,145,980,Ready,,,SAMPLE: 40 regular + 2 OT + $50 bonus,0,0
+PR002,P001,E002,Taylor Brooks,32,0,,20,,30,0,640,75,10,0,85,555,Paid,2026-10-09,ACH-SAMPLE-002,SAMPLE: paid fictional record,0,0
+PR003,P001,E003,Morgan Carter,37.5,0,,22,,33,0,825,95,20,0,115,710,Ready,,,SAMPLE: fractional hours,0,0
+PR004,P001,E004,Casey Ellis,0,0,0,0,0,0,0,0,0,0,0,0,0,Draft,,,SAMPLE: zero hours and zero rate,0,0
+PR005,P002,E001,Jordan Reed,0,0,,25,,37.5,0,0,0,0,0,0,,Draft,,,SAMPLE: unapproved hours block payment,1,0

@@ -1,0 +1,5 @@
+Technician ID,Name,Phone,Skills or trade,Work start,Work end,Max hours per day,Active
+T001,Sam Carter,2025550101,HVAC,08:00,17:00,8,Yes
+T002,Alex Rivera,2025550102,Cleaning,08:00,16:00,6,Yes
+T003,Jordan Lane,2025550103,Pest control,09:00,17:00,4,Yes
+T004,Casey Brooks,2025550104,Plumbing,08:00,16:00,8,No

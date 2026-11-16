@@ -1,0 +1,17 @@
+Hours ID,Work date,Employee ID,Employee,Pay period ID,Regular hours,Overtime hours,Total hours,Approval status,Notes,Payroll link
+H001,2026-09-28,E001,Jordan Reed,P001,8,0,8,Approved,SAMPLE: fictional daily hours,Linked
+H002,2026-09-29,E001,Jordan Reed,P001,8,0,8,Approved,SAMPLE: fictional daily hours,Linked
+H003,2026-09-30,E001,Jordan Reed,P001,8,0,8,Approved,SAMPLE: fictional daily hours,Linked
+H004,2026-10-01,E001,Jordan Reed,P001,8,0,8,Approved,SAMPLE: fictional daily hours,Linked
+H005,2026-10-02,E001,Jordan Reed,P001,8,2,10,Approved,SAMPLE: fictional daily hours,Linked
+H006,2026-09-28,E002,Taylor Brooks,P001,8,0,8,Approved,SAMPLE: fictional daily hours,Linked
+H007,2026-09-29,E002,Taylor Brooks,P001,8,0,8,Approved,SAMPLE: fictional daily hours,Linked
+H008,2026-09-30,E002,Taylor Brooks,P001,8,0,8,Approved,SAMPLE: fictional daily hours,Linked
+H009,2026-10-01,E002,Taylor Brooks,P001,8,0,8,Approved,SAMPLE: fictional daily hours,Linked
+H010,2026-09-28,E003,Morgan Carter,P001,7.5,0,7.5,Approved,SAMPLE: fictional daily hours,Linked
+H011,2026-09-29,E003,Morgan Carter,P001,7.5,0,7.5,Approved,SAMPLE: fictional daily hours,Linked
+H012,2026-09-30,E003,Morgan Carter,P001,7.5,0,7.5,Approved,SAMPLE: fictional daily hours,Linked
+H013,2026-10-01,E003,Morgan Carter,P001,7.5,0,7.5,Approved,SAMPLE: fictional daily hours,Linked
+H014,2026-10-02,E003,Morgan Carter,P001,7.5,0,7.5,Approved,SAMPLE: fictional daily hours,Linked
+H015,2026-09-28,E004,Casey Ellis,P001,0,0,0,Approved,SAMPLE: zero-hour record,Linked
+H016,2026-10-05,E001,Jordan Reed,P002,8,0,8,Submitted,SAMPLE: pending next period,Linked

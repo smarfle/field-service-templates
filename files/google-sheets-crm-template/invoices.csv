@@ -1,0 +1,5 @@
+Invoice ID,Job ID,Client name,Issued date,Due date,Invoice status,Subtotal (USD),Tax amount (USD),Discount (USD),Total (USD),Amount paid (USD),Balance (USD),Payment status,Last payment date,Payment method,Notes
+I001,J001,Morgan Ellis,2026-09-30,2026-10-07,Sent,300,0,0,300,300,0,Paid,2026-10-01,Card,Fictional paid invoice
+I002,J002,Jamie Parker,2026-10-01,2026-10-02,Sent,180,0,0,180,60,120,Overdue,2026-10-01,Cash,Fictional overdue partial payment
+I003,J003,Casey Brooks,2026-10-03,2026-10-17,Draft,4000,0,0,4000,0,0,Draft,,,"Fictional draft, excluded from receivables"
+I004,J006,Reese Adams,2026-10-02,2026-10-10,Void,1500,0,0,1500,0,0,Void,,,"Fictional void, excluded from receivables"

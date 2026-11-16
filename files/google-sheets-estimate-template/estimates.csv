@@ -1,0 +1,8 @@
+Estimate number,Date,Customer name,Phone,Email,Job address,Status,Valid until override (optional),Discount type,Discount value (10 = 10%),Deposit percent override (optional),Follow-up date,Accepted date,Notes
+EST-1001,2026-11-05,Morgan Ellis,2025550101,morgan@example.com,"10 Example Lane, Orlando, FL 32803",Sent,2026-12-05,Amount,50,0.25,2026-11-10,,Amount discount example
+EST-1002,2026-11-01,Jamie Reed,2025550102,jamie@example.com,"20 Example Lane, Orlando, FL 32803",Accepted,2026-12-01,Percent,10,0.25,,2026-11-03,Mixed taxable lines example
+EST-1003,2026-10-01,Casey Brooks,2025550103,casey@example.com,"30 Example Lane, Orlando, FL 32803",Sent,2026-10-31,None,0,0,,,Expired open quote example
+EST-1004,2026-11-02,Drew Bennett,2025550104,drew@example.com,"40 Example Lane, Orlando, FL 32803",Declined,2026-12-02,None,0,0.25,,,Customer chose another provider
+EST-1005,2026-11-08,Alex West,2025550105,alex@example.com,"50 Example Lane, Orlando, FL 32803",Draft,,None,0,,2026-11-09,,No line items example
+EST-1006,2026-11-09,Jordan Fox,2025550106,jordan@example.com,"60 Example Lane, Orlando, FL 32803",Draft,,None,0,,2026-11-11,,Missing-rate example
+EST-1007,2026-11-04,Taylor Green,2025550107,taylor@example.com,"70 Example Lane, Orlando, FL 32803",Sent,2026-12-04,None,0,0,2026-11-08,,Zero price and zero deposit example

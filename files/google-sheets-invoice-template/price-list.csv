@@ -1,0 +1,5 @@
+Service,Description,Unit,Rate,Taxable
+HVAC maintenance,HVAC maintenance visit,visit,125,Yes
+filter replacement,Replace standard filter,each,45,Yes
+deep cleaning,Deep cleaning service,hour,55,No
+pest control service,Scheduled pest control service,visit,95,Yes

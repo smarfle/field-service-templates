@@ -1,0 +1,9 @@
+Contact ID,First name,Last name,Company,Contact type,Mobile phone,Other phone,Email,Street,City,State,ZIP,Service area,Tags,Preferred channel,OK to text,Do not contact,Source,Notes,Last updated
+CT001,Morgan,Ellis,,Residential customer,(202) 555-0101,,morgan@example.com,101 Example Lane,Orlando,FL,32801,Orlando,"recurring, keyholder",Text,Yes,No,Referral,Fictional sample,2026-11-10
+CT002,Morgan,Ellis,,Residential customer,202-555-0101,,MORGAN@example.com,101 Example Lane,Orlando,FL,32801,Orlando,household,Call,No,No,Phone,Review duplicate example,2026-11-10
+CT003,Jamie,Reed,Bay Office,Commercial customer,2025550102,,jamie@example.com,202 Example Avenue,Winter Park,FL,32789,Winter Park,commercial,Email,No,No,Website,Fictional sample,2026-11-10
+CT004,Casey,Brooks,Cedar Properties,Property manager,202 555 0103,2025550199,casey@example.com,303 Example Road,Kissimmee,FL,34741,Kissimmee,property manager,Call,No,No,Referral,Fictional sample,2026-11-10
+CT005,Jordan,Lane,Bay Parts,Vendor,2025550104,,orders@example.com,404 Example Street,Orlando,FL,32803,Orlando,parts,Email,No,No,Trade event,Fictional sample,2026-11-10
+CT006,Alex,West,West Electrical,Subcontractor,2025550105,,alex.example.com,505 Example Way,Winter Park,FL,,Winter Park,electrical,Call,No,No,Referral,Intentional email and ZIP checks,2026-11-10
+CT007,Drew,Bennett,Local Partner,Partner,20255501,,drew@example.com,606 Example Court,Orlando,FL,32804,Orlando,partner,Call,Yes,Yes,Networking,Intentional phone and permission conflict,2026-11-10
+CT008,Taylor,Green,,Residential customer,2025550108,2025550101,taylor@example.com,707 Example Place,Kissimmee,FL,34741,Kissimmee,one-time,Call,No,Yes,Website,Shared other phone example,2026-11-10

@@ -1,0 +1,7 @@
+Invoice number,Customer,Invoice date,Invoice total,Paid to date,Balance,Status,Notes
+INV-1001,Morgan Ellis,2026-11-01,500,450,50,Partially paid,Refund reduces paid amount
+INV-1002,Jamie Reed,2026-11-01,300,100,200,Partially paid,Partial cash payment
+INV-1003,Casey Brooks,2026-11-02,200,230,-30,Overpaid,Overpayment example
+INV-1004,Drew Bennett,2026-11-03,100,100,0,Paid,Possible duplicate example
+INV-1005,Alex West,2026-11-04,400,150,250,Partially paid,Cross-month payment example
+INV-1006,Taylor Green,2026-11-05,250,0,250,Unpaid,No payments yet

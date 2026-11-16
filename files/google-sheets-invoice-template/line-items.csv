@@ -1,0 +1,4 @@
+Line ID,Invoice number,Service,Quantity,Description override (optional),Unit override (optional),Rate override (optional),Taxable override (optional),Notes
+LI-1001,INV-1001,HVAC maintenance,2,HVAC maintenance visit,visit,125,Yes,
+LI-1002,INV-1001,filter replacement,1,Replace standard filter,each,45,Yes,
+LI-1003,INV-1002,deep cleaning,3,,,,,

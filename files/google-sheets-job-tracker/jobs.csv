@@ -1,0 +1,7 @@
+Job ID,Customer,Phone,Service address,Service,Job date,Crew or technician,Status,Quoted amount,Final amount,Materials cost,Labor hours,Labor rate override (optional),Invoice number,Invoice date,Completed date,Paid date,Notes
+J-1001,Morgan Ellis,(202) 555-0101,"125 Sample Lane, Orlando, FL 32801",HVAC maintenance,2026-11-10,Sam Carter,Paid,350,350,50,3,,INV-1001,2026-11-10,2026-11-10,2026-11-11,Fictional paid service
+J-1002,Taylor Brooks,(202) 555-0102,"40 Example Road, Orlando, FL 32801",deep cleaning,2026-11-09,Alex Rivera,Completed,300,320,20,4,,,,2026-11-09,,"Completed, invoice still needed"
+J-1003,Sample Oak Offices,(202) 555-0103,"100 Example Way, Orlando, FL 32801",pest control service,2026-10-02,Jordan Lane,Invoiced,500,500,60,5,,INV-1003,2026-10-07,2026-10-02,,Unpaid older invoice example
+J-1004,Casey Adams,(202) 555-0104,"72 Sample Street, Orlando, FL 32801",lawn mowing,2026-11-08,Alex Rivera,Scheduled,150,,,,,,,,,Past scheduled job to review
+J-1005,Jamie Reed,(202) 555-0105,"18 Example Court, Orlando, FL 32801",plumbing repair,2026-11-12,Sam Carter,Scheduled,425,,,,,,,,,Tomorrow service
+J-1006,Riley West,(202) 555-0106,"54 Sample Avenue, Orlando, FL 32801",deep cleaning,2026-11-11,Alex Rivera,Quoted,280,,,,,,,,,Quote not yet accepted

@@ -1,0 +1,5 @@
+Line ID,Report number,Date,Type,Vendor or trip route,Category,Job or client,Payment method,Cash amount,Miles,Receipt link,Notes
+EX-1001,ER-1001,2026-11-03,Expense,Example Parts,Supplies,Morgan Ellis,Card,120,,https://example.com/fictional-receipt,Fictional receipt
+EX-1002,ER-1001,2026-11-04,Expense,Example Fuel,Fuel,Service route,Card,45,,https://example.com/fictional-receipt-2,
+EX-1003,ER-1001,2026-11-05,Mileage,Shop to customer and return,Mileage,Morgan Ellis,Other,,60,,"Business trip, not commuting"
+EX-1004,ER-1002,2026-11-06,Expense,Example Supply,Supplies,Avery Quinn,Cash,30,,,Receipt below example threshold

@@ -1,0 +1,5 @@
+Client ID,Customer / company,Customer type,Service city,Email,Phone,Notes
+C001,Morgan Ellis,Residential,Orlando FL,morgan@example.com,407-555-0101,SAMPLE: fictional customer
+C002,Example Office LLC,Commercial,Winter Park FL,office@example.com,407-555-0102,SAMPLE: fictional customer
+C003,Casey Parker,Residential,Tampa FL,casey@example.com,813-555-0103,SAMPLE: fictional customer
+CINT,Internal / non-customer,Internal,Orlando FL,,,SAMPLE: internal work

@@ -1,0 +1,11 @@
+Entry ID,Employee ID,Employee,Job ID,Client,Service,Start date,Start time,End date (optional),End time,Break (minutes),Hours,Billable?,Billing rate override (optional),Billing rate (USD/hr),Billable amount (USD),Cost rate override (optional),Cost rate (USD/hr),Labor cost (USD),Approval status,Notes,Start timestamp,End timestamp,Input check,Overlap alert
+TE001,E003,Taylor Brooks,J001,Morgan Ellis,Cleaning,2026-09-28,08:00,,12:00,30,3.5,Yes,,60,210,,22,77,Approved,"SAMPLE: cleaning, 3.50 hours",2026-09-28 07:59,2026-09-28 12:00,OK,
+TE002,E002,Jordan Reed,J002,Example Office LLC,Pest control,2026-09-28,09:00,,17:00,30,7.5,Yes,,95,712.5,,28,210,Approved,"SAMPLE: pest service, 7.50 hours",2026-09-28 09:00,2026-09-28 16:59,OK,
+TE003,E001,Alex Carter,J003,Casey Parker,HVAC,2026-09-29,08:00,,11:00,0,3,Yes,110,110,330,,30,90,Approved,SAMPLE: $110 billing override,2026-09-29 07:59,2026-09-29 10:59,OK,
+TE004,E003,Taylor Brooks,J001,Morgan Ellis,Cleaning,2026-09-29,13:00,,16:00,15,2.75,Yes,,60,165,,22,60.5,Approved,"SAMPLE: cleaning, 2.75 hours",2026-09-29 13:00,2026-09-29 16:00,OK,
+TE005,E002,Jordan Reed,J002,Example Office LLC,Pest control,2026-09-30,22:00,,02:00,15,3.75,Yes,,95,356.25,,28,105,Approved,"SAMPLE: overnight, 3.75 hours",2026-09-30 22:00,2026-10-01 01:59,OK,
+TE006,E001,Alex Carter,JINT,Internal / non-customer,Internal,2026-09-30,09:00,,10:30,0,1.5,No,,0,0,,30,45,Approved,SAMPLE: nonbillable office work,2026-09-30 09:00,2026-09-30 10:30,OK,
+TE007,E003,Taylor Brooks,J001,Morgan Ellis,Cleaning,2026-10-01,08:00,,12:00,30,3.5,Yes,,60,210,,22,77,Submitted,SAMPLE: awaiting approval,2026-10-01 07:59,2026-10-01 12:00,OK,
+TE008,E002,Jordan Reed,J003,Casey Parker,HVAC,2026-10-02,10:00,,12:00,0,2,Yes,0,0,0,,28,56,Approved,SAMPLE: zero-rate warranty,2026-10-02 10:00,2026-10-02 12:00,OK,
+TE009,E001,Alex Carter,J003,Casey Parker,HVAC,2026-10-02,08:00,,08:00,0,0,No,,100,0,,30,0,Approved,SAMPLE: zero-hour record,2026-10-02 07:59,2026-10-02 07:59,OK,
+TE010,E003,Taylor Brooks,J001,Morgan Ellis,Cleaning,2026-10-05,08:00,,11:00,0,3,Yes,,60,180,,22,66,Approved,SAMPLE: next week excluded,2026-10-05 07:59,2026-10-05 10:59,OK,

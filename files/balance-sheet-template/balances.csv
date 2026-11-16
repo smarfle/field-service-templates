@@ -1,0 +1,27 @@
+Account ID,Balance date,Balance (USD),Notes
+A101,2026-10-31,12000,Fictional prior balance
+A101,2026-11-11,14500,Fictional current balance
+A102,2026-10-31,8000,Fictional prior balance
+A102,2026-11-11,8000,Fictional current balance
+A103,2026-10-31,6500,Fictional prior balance
+A103,2026-11-11,7800,Fictional current balance
+A104,2026-10-31,3000,Fictional prior balance
+A104,2026-11-11,2700,Fictional current balance
+A105,2026-10-31,1200,Fictional prior balance
+A105,2026-11-11,1100,Fictional current balance
+A201,2026-10-31,26000,Fictional prior balance
+A201,2026-11-11,26000,Fictional current balance
+A202,2026-10-31,-6000,Fictional prior balance
+A202,2026-11-11,-6400,Fictional current balance
+L101,2026-10-31,4200,Fictional prior balance
+L101,2026-11-11,3600,Fictional current balance
+L102,2026-10-31,1800,Fictional prior balance
+L102,2026-11-11,1600,Fictional current balance
+L103,2026-10-31,3000,Fictional prior balance
+L103,2026-11-11,3000,Fictional current balance
+L201,2026-10-31,14000,Fictional prior balance
+L201,2026-11-11,13700,Fictional current balance
+E101,2026-10-31,20000,Fictional prior balance
+E101,2026-11-11,20000,Fictional current balance
+E102,2026-10-31,7700,Fictional prior balance
+E102,2026-11-11,11800,Fictional current balance

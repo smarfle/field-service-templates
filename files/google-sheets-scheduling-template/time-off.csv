@@ -1,0 +1,4 @@
+Employee ID,Start date,End date,Type,Approved,Notes
+E002,2026-11-10,2026-11-10,Vacation,Yes,Approved Tuesday off
+E003,2026-11-11,2026-11-11,Personal,Yes,Overnight cross-date example
+E001,2026-11-13,2026-11-13,Personal,No,Pending request does not block

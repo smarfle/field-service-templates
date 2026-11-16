@@ -1,3 +1,13 @@
 title: Free Field Service Templates
 description: Free Google Sheets and Google Docs templates for cleaning, pest control, HVAC, plumbing, lawn care and handyman businesses, by Smarfle.
 theme: jekyll-theme-cayman
+url: https://smarfle.github.io
+baseurl: /field-service-templates
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+exclude:
+  - files

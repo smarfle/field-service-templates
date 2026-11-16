@@ -1,0 +1,7 @@
+Line ID,Work order number,Item,Quantity,Unit override (optional),Unit price override (optional),Taxable override (optional),Description override (optional),Notes
+ML001,WO-1001,HVAC filter,2,each,45,Yes,"HVAC filter, supplied and fitted",
+ML002,WO-1001,coil cleaner,1,each,10,Yes,Coil cleaner used on the job,
+ML003,WO-1002,cleaning supplies,2,each,12,Yes,Cleaning supplies used for the agreed scope,
+ML004,WO-1003,pest control kit,1,each,35,Yes,Pest control treatment kit,
+ML005,WO-1005,custom material,1,,,,,
+ML006,WO-1007,free inspection,1,visit,0,No,Free initial inspection,

@@ -1,0 +1,7 @@
+Item ID,Item / part name,Category,Stock unit,Default supplier ID,Supplier,Standard unit cost (USD),Reorder level,Target stock,Storage location,Status,Notes,On hand,Inventory value (USD),Suggested order qty
+I001,All-purpose cleaner,Cleaning,bottle,S001,Example Cleaning Supply,12,8,24,Shop shelf A,Active,SAMPLE: low stock,5,60,19
+I002,Nitrile gloves,Safety,box,S001,Example Cleaning Supply,9,5,20,Van 1,Active,SAMPLE: healthy stock,12,108,
+I003,Air filter 16x20x1,HVAC,each,S002,Example Trade Parts,8,6,24,Shop rack B,Active,SAMPLE: low stock,4,32,20
+I004,Pest bait station,Pest control,each,S003,Example Pest Supply,4,10,30,Van 2,Active,SAMPLE: healthy stock,15,60,
+I005,PVC elbow 3/4 inch,Plumbing,each,S002,Example Trade Parts,2,5,20,Shop bin C,Active,SAMPLE: negative stock to review,-2,-4,
+I006,Donated microfiber cloth,Cleaning,pack,S001,Example Cleaning Supply,0,0,5,Shop shelf A,Active,SAMPLE: valid zero-cost stock,5,0,

@@ -1,0 +1,4 @@
+Employee ID,Name,Role,Hourly rate (optional),Active
+E001,Sam Carter,HVAC technician,25,Yes
+E002,Alex Rivera,Cleaning technician,22,Yes
+E003,Jordan Lane,Office,,No

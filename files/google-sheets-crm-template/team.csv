@@ -1,0 +1,4 @@
+Team ID,Name,Role,Phone,Email,Team status,Notes,Open jobs,Completed jobs
+T001,Alex,Owner,(407) 555-0200,alex@example.com,Active,Fictional team member,1,1
+T002,Jordan,Technician,(407) 555-0201,jordan@example.com,Active,Fictional team member,0,2
+T003,Taylor,Technician,(407) 555-0202,taylor@example.com,Active,Fictional team member,1,1

@@ -1,0 +1,4 @@
+Employee ID,Name,Role,Default billing rate (USD/hr),Default cost rate (USD/hr),Status,Email,Notes
+E001,Alex Carter,Owner,85,30,Active,alex@example.com,SAMPLE: fictional employee
+E002,Jordan Reed,Technician,95,28,Active,jordan@example.com,SAMPLE: fictional employee
+E003,Taylor Brooks,Cleaner,60,22,Active,taylor@example.com,SAMPLE: fictional employee

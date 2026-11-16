@@ -1,0 +1,4 @@
+Supplier ID,Supplier name,Contact person,Email,Phone,Lead time (days),Notes
+S001,Example Cleaning Supply,Avery Quinn,orders@example.com,407-555-0110,3,SAMPLE: fictional supplier
+S002,Example Trade Parts,Sam Rivera,parts@example.com,407-555-0111,5,SAMPLE: fictional supplier
+S003,Example Pest Supply,Jamie Lane,supply@example.com,407-555-0112,4,SAMPLE: fictional supplier

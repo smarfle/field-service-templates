@@ -1,0 +1,7 @@
+Entry ID,Month (any date in month),Category,Amount,Notes
+M-1,2026-11-01,Service revenue,14400,Alternative to transaction detail
+M-2,2026-11-01,Job materials,2330,Alternative to transaction detail
+M-3,2026-11-01,Fuel,610,Alternative to transaction detail
+M-4,2025-11-01,Service revenue,12000,Prior-year comparison
+M-5,2025-11-01,Job materials,2000,Prior-year comparison
+M-6,2025-11-01,Fuel,550,Prior-year comparison

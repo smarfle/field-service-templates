@@ -1,0 +1,9 @@
+Line ID,Estimate number,Service,Quantity,Description override (optional),Unit override (optional),Rate override (optional),Taxable override (optional),Internal line note
+LI001,EST-1001,HVAC maintenance,2,HVAC maintenance visit with inspection and tune-up,visit,125,Yes,
+LI002,EST-1001,filter replacement,1,"Replacement filter, supplied and fitted",each,45,Yes,
+LI003,EST-1002,deep cleaning,3,Deep cleaning labor for the agreed scope,hour,55,No,
+LI004,EST-1002,cleaning supplies,1,Cleaning supplies for the agreed job,each,20,Yes,
+LI005,EST-1003,pest control service,1,Pest control service for the agreed treatment area,visit,180,Yes,
+LI006,EST-1004,lawn mowing,2,Lawn mowing for the agreed service area,visit,60,No,
+LI007,EST-1006,custom service,1,,,,,
+LI008,EST-1007,free inspection,1,Free initial inspection,visit,0,No,

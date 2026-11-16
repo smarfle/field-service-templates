@@ -1,0 +1,7 @@
+Trip ID,Date,Driver,Vehicle,Start location,End location,Purpose,Customer or job,Start odometer,End odometer,Entered miles (optional),Round trip,Business or personal,Reimbursed,Reimbursement paid date,Notes
+1001,2026-11-09,Sam Carter,Van 1,Shop,125 Sample Lane,HVAC maintenance,J-1001,10000,10012,,No,Business,No,,First recorded odometer trip
+1002,2026-11-09,Sam Carter,Van 1,125 Sample Lane,Shop,Return from customer,J-1001,10012,10024,,Yes,Business,No,,Odometer already includes all driven miles
+1003,2026-11-10,Sam Carter,Van 1,Shop,100 Example Way,pest control service,J-1003,10030,10040,,No,Business,No,,Six-mile unlogged gap example
+1004,2026-11-10,Alex Rivera,Personal car,Home,40 Example Road,deep cleaning,J-1002,,,15,Yes,Business,Yes,2026-11-11,15 one-way miles becomes 30 total; reimbursed
+1005,2026-11-11,Sam Carter,Van 1,Shop,Personal stop,Personal errand,,10040,10045,,No,Personal,No,,"Included in odometer continuity, excluded from reimbursement"
+1006,2026-11-11,Jordan Lane,Truck 2,Shop,18 Example Court,,J-1005,5000,4995,,No,Business,No,,Invalid odometer and missing purpose example

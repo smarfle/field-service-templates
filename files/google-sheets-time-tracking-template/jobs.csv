@@ -1,0 +1,5 @@
+Job ID,Client ID,Client,Service,Job description,Default billing rate (USD/hr),Status,Notes
+J001,C001,Morgan Ellis,Cleaning,Recurring home cleaning,60,Open,SAMPLE: fictional job
+J002,C002,Example Office LLC,Pest control,Commercial pest inspection,95,Open,SAMPLE: fictional job
+J003,C003,Casey Parker,HVAC,AC maintenance visit,100,Open,SAMPLE: fictional job
+JINT,CINT,Internal / non-customer,Internal,"Travel, training and office work",0,Internal,SAMPLE: nonbillable work

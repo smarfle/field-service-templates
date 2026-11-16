@@ -1,0 +1,13 @@
+Visit ID,Client ID,Visit date,Service,Employee ID,Amount charged,Completed,Notes
+V001,C001,2026-09-01,deep cleaning,E001,120,Yes,
+V002,C001,2026-10-01,deep cleaning,E001,120,Yes,
+V003,C002,2026-10-29,lawn mowing,E002,65,Yes,
+V004,C002,2026-11-05,lawn mowing,E002,65,Yes,
+V005,C003,2026-02-10,pest control service,E001,180,Yes,
+V006,C004,2026-09-01,pool maintenance,E002,95,Yes,
+V007,C005,2026-01-10,HVAC maintenance,E001,250,Yes,
+V008,C007,2026-10-20,deep cleaning,E001,150,Yes,
+V009,C008,2026-07-31,HVAC maintenance,E001,175,Yes,
+V010,C008,2026-09-30,HVAC maintenance,E002,175,Yes,
+V011,C006,2026-11-11,pool maintenance,E002,95,No,
+V012,C001,2026-11-15,deep cleaning,E001,120,No,

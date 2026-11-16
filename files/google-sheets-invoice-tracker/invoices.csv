@@ -1,0 +1,9 @@
+Invoice number,Client ID,Job or description,Issue date,Terms,Due date override (optional),Subtotal,Discount,Tax rate,Paid to date,Last payment date,Document state,Next reminder date,Notes
+INV-001,C001,Heat pump repair,2026-11-01,Net 7,,500,50,0.06,100,2026-11-09,Sent,2026-11-10,Partial payment
+INV-002,C002,Deep clean,2026-10-05,Net 15,,250,0,0,0,,Sent,2026-11-11,
+INV-003,C001,Filter service,2026-08-26,Net 30,,180,0,0,0,,Sent,2026-11-10,
+INV-004,C003,Quarterly service,2026-06-27,Net 30,,400,0,0,0,,Sent,2026-11-10,
+INV-005,C002,Move-out clean,2026-11-10,Net 7,,350,0,0,0,,Sent,2026-11-14,
+INV-006,C003,Estimate not issued,2026-11-10,Net 15,,600,0,0,0,,Draft,,
+INV-007,C002,Paid service,2026-11-04,Due on receipt,,120,0,0,120,2026-11-06,Sent,,
+INV-008,C001,Canceled invoice,2026-10-05,Net 30,,80,0,0,0,,Void,,

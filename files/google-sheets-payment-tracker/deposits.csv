@@ -1,0 +1,7 @@
+Deposit batch ID,Deposit date,Bank statement amount,Expected total,Difference (bank minus expected),Matched,Notes
+B001,2026-11-03,291,291,0,Yes,Card payout
+B002,2026-11-04,200,200,0,Yes,ACH settlement
+B003,2026-11-09,250,250,0,Yes,Check deposit
+B004,2026-11-09,45,46,-1,No,Mismatch example. Expected $46
+B005,2026-11-02,100,100,0,Yes,Prior-month receipt. Whole batch still matches
+B006,2026-11-10,48,48,0,Yes,PayPal settlement

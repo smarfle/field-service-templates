@@ -1,0 +1,7 @@
+Job ID,Client ID,Client name,Lead ID (optional),Service,Job type,Scheduled date,Start time,Team ID,Team member,Job status,Completed date,Job value (USD),Service address,Notes,Invoice status,Next service date
+J001,C001,Morgan Ellis,,Cleaning,One-time,2026-09-30,09:00,T001,Alex,Completed,2026-09-30,300,"101 Example Lane, Orlando FL",Fictional completed and paid job,Paid,2026-10-30
+J002,C002,Jamie Parker,,Pest control,Recurring,2026-10-01,10:00,T002,Jordan,Completed,2026-10-01,180,"102 Example Lane, Winter Park FL",Fictional partial payment; next visit planned,Invoiced / balance due,2026-12-30
+J003,C003,Casey Brooks,,HVAC,One-time,2026-10-05,09:00,T003,Taylor,Scheduled,,4000,"103 Example Lane, Tampa FL",Fictional scheduled job with draft invoice,Draft,
+J004,C001,Morgan Ellis,,Cleaning,Recurring,2026-10-15,11:00,T001,Alex,Scheduled,,300,"101 Example Lane, Orlando FL",Fictional repeat visit,Not invoiced,
+J005,C007,Drew Bennett,L027,HVAC,One-time,2026-09-28,13:00,T003,Taylor,Completed,2026-09-28,1950,"107 Example Lane, Orlando FL",Fictional completed job awaiting invoice,Not invoiced,2027-03-27
+J006,C014,Reese Adams,L034,Plumbing,One-time,2026-10-02,14:00,T002,Jordan,Completed,2026-10-02,1500,"114 Example Lane, Orlando FL",Void invoice excluded from balance; replacement needed,Not invoiced,

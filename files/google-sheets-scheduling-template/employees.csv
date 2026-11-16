@@ -1,0 +1,5 @@
+Employee ID,Name,Role,Phone,Hourly rate (optional),Max hours per week,Active,Effective weekly limit
+E001,Sam Carter,HVAC maintenance crew,2025550101,25,40,Yes,40
+E002,Alex Rivera,deep cleaning crew,2025550102,22,30,Yes,30
+E003,Jordan Fox,night cleaning crew,2025550103,,40,Yes,40
+E004,Riley Hart,lawn mowing crew,2025550104,20,40,No,40

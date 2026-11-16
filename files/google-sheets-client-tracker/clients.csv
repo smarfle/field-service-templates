@@ -1,0 +1,9 @@
+Client ID,Client name,Phone,Email,Service address,Service area,Main service,Recurring interval,Custom days,Assigned employee ID,Start date,Status,Cancel reason,Preferred day,Time window,Notes,Next service due override (optional),Contact first name
+C001,Morgan Ellis,2025550101,morgan@example.com,101 Example Lane,Orlando,deep cleaning,Monthly,,E001,2025-10-01,Active,,Monday,9 AM to noon,,,Morgan
+C002,Jamie Reed,2025550102,jamie@example.com,202 Example Road,Winter Park,lawn mowing,Weekly,,E002,2025-10-01,Active,,Thursday,8 AM to noon,,,Jamie
+C003,Casey Brooks,2025550103,casey@example.com,303 Example Drive,Kissimmee,pest control service,Quarterly,,E001,2025-10-01,Active,,Tuesday,Afternoon,,,Casey
+C004,Taylor Green,2025550104,taylor@example.com,404 Example Street,Orlando,pool maintenance,Monthly,,E002,2025-10-01,Paused,,Friday,Morning,Seasonal pause,,Taylor
+C005,Drew Bennett,2025550105,drew@example.com,505 Example Court,Winter Park,HVAC maintenance,Yearly,,E001,2025-10-01,Canceled,Moved outside service area,,,,,Drew
+C006,Alex West,2025550106,alex@example.com,606 Example Way,Orlando,pool maintenance,Custom days,10,E002,2026-11-08,Active,,Wednesday,Evening,First visit not completed,,Alex
+C007,Jordan Lane,2025550107,jordan@example.com,707 Example Place,Kissimmee,deep cleaning,Every 2 weeks,,E001,2025-10-01,Canceled,Selected another provider,,,,,Jordan
+C008,Riley Hart,2025550108,riley@example.com,808 Example Avenue,Orlando,HVAC maintenance,Every 2 months,,E002,2025-10-01,Active,,Tuesday,Morning,Month-end example,,Riley

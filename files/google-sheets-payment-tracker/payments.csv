@@ -1,0 +1,13 @@
+Payment ID,Date received,Customer,Invoice number,Type,Amount (positive),Method,Reference,Processing fee,Net amount,Deposited,Deposit date,Deposit batch ID,Recorded by,Notes
+P001,2026-11-02,Morgan Ellis,INV-1001,Payment,300,Card,TX-1001,9,291,Yes,2026-11-03,B001,Sam Carter,
+P002,2026-11-04,Morgan Ellis,INV-1001,Payment,200,Bank transfer or ACH,ACH-1002,0,200,Yes,2026-11-04,B002,Sam Carter,
+P003,2026-11-05,Jamie Reed,INV-1002,Payment,100,Cash,,0,100,No,,,Alex Rivera,Late cash example
+P004,2026-11-06,Casey Brooks,INV-1003,Payment,250,Check,1010,0,250,Yes,2026-11-09,B003,Sam Carter,
+P005,2026-11-08,Drew Bennett,INV-1004,Payment,50,Card,TX-DUP,1.5,48.5,Yes,2026-11-09,B004,Sam Carter,Possible duplicate. Review before removing
+P006,2026-11-08,Drew Bennett,INV-1004,Payment,50,Card,TX-DUP,1.5,48.5,Yes,2026-11-09,B004,Alex Rivera,Possible duplicate. Review before removing
+P007,2026-11-09,Morgan Ellis,INV-1001,Refund,50,Card,RF-1001,1,-51,Yes,2026-11-09,B004,Sam Carter,
+P008,2026-11-10,Alex West,,Deposit or retainer,150,Zelle,ZEL-1008,0,150,No,,,Alex Rivera,Unallocated retainer example
+P009,2026-11-10,Casey Brooks,INV-1003,Refund,20,Cash,,0,-20,No,,,Sam Carter,Missing refund reference example
+P010,2026-11-10,Sample Walk-in,INV-9999,Payment,75,Venmo,VEN-10,0,75,No,,,Alex Rivera,Unknown invoice example
+P011,2026-10-31,Alex West,INV-1005,Payment,100,Check,1009,0,100,Yes,2026-11-02,B005,Sam Carter,October receipt settles in November
+P012,2026-11-09,Alex West,INV-1005,Payment,50,PayPal,PP-12,2,48,Yes,2026-11-10,B006,Sam Carter,

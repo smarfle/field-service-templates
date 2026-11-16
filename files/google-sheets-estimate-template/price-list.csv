@@ -1,0 +1,9 @@
+Service,Description,Unit,Rate,Taxable
+HVAC maintenance,HVAC maintenance visit with inspection and tune-up,visit,125,Yes
+filter replacement,"Replacement filter, supplied and fitted",each,45,Yes
+deep cleaning,Deep cleaning labor for the agreed scope,hour,55,No
+cleaning supplies,Cleaning supplies for the agreed job,each,20,Yes
+pest control service,Pest control service for the agreed treatment area,visit,180,Yes
+lawn mowing,Lawn mowing for the agreed service area,visit,60,No
+custom service,Custom service. Enter a rate override before sending,each,,No
+free inspection,Free initial inspection,visit,0,No

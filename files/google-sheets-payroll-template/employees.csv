@@ -1,0 +1,5 @@
+Employee ID,Employee name,Role,Default regular rate (USD/hr),Default overtime rate (USD/hr),Status,Email,Notes
+E001,Jordan Reed,Technician,25,37.5,Active,jordan@example.com,SAMPLE: fictional employee
+E002,Taylor Brooks,Cleaner,20,30,Active,taylor@example.com,SAMPLE: fictional employee
+E003,Morgan Carter,Office,22,33,Active,morgan@example.com,SAMPLE: fictional employee
+E004,Casey Ellis,Helper,18,27,Active,casey@example.com,SAMPLE: zero-hour example

@@ -1,0 +1,181 @@
+Budget ID,Month (any date),Category,Amount,Notes
+B-1,2026-01-01,Service revenue,15000,Fictional monthly plan
+B-2,2026-01-01,Maintenance plans,500,Fictional monthly plan
+B-3,2026-01-01,Other income,0,Fictional monthly plan
+B-4,2026-01-01,Job materials,2500,Fictional monthly plan
+B-5,2026-01-01,Subcontractors,0,Fictional monthly plan
+B-6,2026-01-01,Direct labor,4000,Fictional monthly plan
+B-7,2026-01-01,Fuel,600,Fictional monthly plan
+B-8,2026-01-01,Vehicle repairs,125,Fictional monthly plan
+B-9,2026-01-01,Tools and supplies,125,Fictional monthly plan
+B-10,2026-01-01,Insurance,125,Fictional monthly plan
+B-11,2026-01-01,Licenses,125,Fictional monthly plan
+B-12,2026-01-01,Software,125,Fictional monthly plan
+B-13,2026-01-01,Advertising,125,Fictional monthly plan
+B-14,2026-01-01,Office,125,Fictional monthly plan
+B-15,2026-01-01,Other expense,125,Fictional monthly plan
+B-16,2026-02-01,Service revenue,15000,Fictional monthly plan
+B-17,2026-02-01,Maintenance plans,500,Fictional monthly plan
+B-18,2026-02-01,Other income,0,Fictional monthly plan
+B-19,2026-02-01,Job materials,2500,Fictional monthly plan
+B-20,2026-02-01,Subcontractors,0,Fictional monthly plan
+B-21,2026-02-01,Direct labor,4000,Fictional monthly plan
+B-22,2026-02-01,Fuel,600,Fictional monthly plan
+B-23,2026-02-01,Vehicle repairs,125,Fictional monthly plan
+B-24,2026-02-01,Tools and supplies,125,Fictional monthly plan
+B-25,2026-02-01,Insurance,125,Fictional monthly plan
+B-26,2026-02-01,Licenses,125,Fictional monthly plan
+B-27,2026-02-01,Software,125,Fictional monthly plan
+B-28,2026-02-01,Advertising,125,Fictional monthly plan
+B-29,2026-02-01,Office,125,Fictional monthly plan
+B-30,2026-02-01,Other expense,125,Fictional monthly plan
+B-31,2026-03-01,Service revenue,15000,Fictional monthly plan
+B-32,2026-03-01,Maintenance plans,500,Fictional monthly plan
+B-33,2026-03-01,Other income,0,Fictional monthly plan
+B-34,2026-03-01,Job materials,2500,Fictional monthly plan
+B-35,2026-03-01,Subcontractors,0,Fictional monthly plan
+B-36,2026-03-01,Direct labor,4000,Fictional monthly plan
+B-37,2026-03-01,Fuel,600,Fictional monthly plan
+B-38,2026-03-01,Vehicle repairs,125,Fictional monthly plan
+B-39,2026-03-01,Tools and supplies,125,Fictional monthly plan
+B-40,2026-03-01,Insurance,125,Fictional monthly plan
+B-41,2026-03-01,Licenses,125,Fictional monthly plan
+B-42,2026-03-01,Software,125,Fictional monthly plan
+B-43,2026-03-01,Advertising,125,Fictional monthly plan
+B-44,2026-03-01,Office,125,Fictional monthly plan
+B-45,2026-03-01,Other expense,125,Fictional monthly plan
+B-46,2026-04-01,Service revenue,15000,Fictional monthly plan
+B-47,2026-04-01,Maintenance plans,500,Fictional monthly plan
+B-48,2026-04-01,Other income,0,Fictional monthly plan
+B-49,2026-04-01,Job materials,2500,Fictional monthly plan
+B-50,2026-04-01,Subcontractors,0,Fictional monthly plan
+B-51,2026-04-01,Direct labor,4000,Fictional monthly plan
+B-52,2026-04-01,Fuel,600,Fictional monthly plan
+B-53,2026-04-01,Vehicle repairs,125,Fictional monthly plan
+B-54,2026-04-01,Tools and supplies,125,Fictional monthly plan
+B-55,2026-04-01,Insurance,125,Fictional monthly plan
+B-56,2026-04-01,Licenses,125,Fictional monthly plan
+B-57,2026-04-01,Software,125,Fictional monthly plan
+B-58,2026-04-01,Advertising,125,Fictional monthly plan
+B-59,2026-04-01,Office,125,Fictional monthly plan
+B-60,2026-04-01,Other expense,125,Fictional monthly plan
+B-61,2026-05-01,Service revenue,15000,Fictional monthly plan
+B-62,2026-05-01,Maintenance plans,500,Fictional monthly plan
+B-63,2026-05-01,Other income,0,Fictional monthly plan
+B-64,2026-05-01,Job materials,2500,Fictional monthly plan
+B-65,2026-05-01,Subcontractors,0,Fictional monthly plan
+B-66,2026-05-01,Direct labor,4000,Fictional monthly plan
+B-67,2026-05-01,Fuel,600,Fictional monthly plan
+B-68,2026-05-01,Vehicle repairs,125,Fictional monthly plan
+B-69,2026-05-01,Tools and supplies,125,Fictional monthly plan
+B-70,2026-05-01,Insurance,125,Fictional monthly plan
+B-71,2026-05-01,Licenses,125,Fictional monthly plan
+B-72,2026-05-01,Software,125,Fictional monthly plan
+B-73,2026-05-01,Advertising,125,Fictional monthly plan
+B-74,2026-05-01,Office,125,Fictional monthly plan
+B-75,2026-05-01,Other expense,125,Fictional monthly plan
+B-76,2026-06-01,Service revenue,15000,Fictional monthly plan
+B-77,2026-06-01,Maintenance plans,500,Fictional monthly plan
+B-78,2026-06-01,Other income,0,Fictional monthly plan
+B-79,2026-06-01,Job materials,2500,Fictional monthly plan
+B-80,2026-06-01,Subcontractors,0,Fictional monthly plan
+B-81,2026-06-01,Direct labor,4000,Fictional monthly plan
+B-82,2026-06-01,Fuel,600,Fictional monthly plan
+B-83,2026-06-01,Vehicle repairs,125,Fictional monthly plan
+B-84,2026-06-01,Tools and supplies,125,Fictional monthly plan
+B-85,2026-06-01,Insurance,125,Fictional monthly plan
+B-86,2026-06-01,Licenses,125,Fictional monthly plan
+B-87,2026-06-01,Software,125,Fictional monthly plan
+B-88,2026-06-01,Advertising,125,Fictional monthly plan
+B-89,2026-06-01,Office,125,Fictional monthly plan
+B-90,2026-06-01,Other expense,125,Fictional monthly plan
+B-91,2026-07-01,Service revenue,15000,Fictional monthly plan
+B-92,2026-07-01,Maintenance plans,500,Fictional monthly plan
+B-93,2026-07-01,Other income,0,Fictional monthly plan
+B-94,2026-07-01,Job materials,2500,Fictional monthly plan
+B-95,2026-07-01,Subcontractors,0,Fictional monthly plan
+B-96,2026-07-01,Direct labor,4000,Fictional monthly plan
+B-97,2026-07-01,Fuel,600,Fictional monthly plan
+B-98,2026-07-01,Vehicle repairs,125,Fictional monthly plan
+B-99,2026-07-01,Tools and supplies,125,Fictional monthly plan
+B-100,2026-07-01,Insurance,125,Fictional monthly plan
+B-101,2026-07-01,Licenses,125,Fictional monthly plan
+B-102,2026-07-01,Software,125,Fictional monthly plan
+B-103,2026-07-01,Advertising,125,Fictional monthly plan
+B-104,2026-07-01,Office,125,Fictional monthly plan
+B-105,2026-07-01,Other expense,125,Fictional monthly plan
+B-106,2026-08-01,Service revenue,15000,Fictional monthly plan
+B-107,2026-08-01,Maintenance plans,500,Fictional monthly plan
+B-108,2026-08-01,Other income,0,Fictional monthly plan
+B-109,2026-08-01,Job materials,2500,Fictional monthly plan
+B-110,2026-08-01,Subcontractors,0,Fictional monthly plan
+B-111,2026-08-01,Direct labor,4000,Fictional monthly plan
+B-112,2026-08-01,Fuel,600,Fictional monthly plan
+B-113,2026-08-01,Vehicle repairs,125,Fictional monthly plan
+B-114,2026-08-01,Tools and supplies,125,Fictional monthly plan
+B-115,2026-08-01,Insurance,125,Fictional monthly plan
+B-116,2026-08-01,Licenses,125,Fictional monthly plan
+B-117,2026-08-01,Software,125,Fictional monthly plan
+B-118,2026-08-01,Advertising,125,Fictional monthly plan
+B-119,2026-08-01,Office,125,Fictional monthly plan
+B-120,2026-08-01,Other expense,125,Fictional monthly plan
+B-121,2026-09-01,Service revenue,15000,Fictional monthly plan
+B-122,2026-09-01,Maintenance plans,500,Fictional monthly plan
+B-123,2026-09-01,Other income,0,Fictional monthly plan
+B-124,2026-09-01,Job materials,2500,Fictional monthly plan
+B-125,2026-09-01,Subcontractors,0,Fictional monthly plan
+B-126,2026-09-01,Direct labor,4000,Fictional monthly plan
+B-127,2026-09-01,Fuel,600,Fictional monthly plan
+B-128,2026-09-01,Vehicle repairs,125,Fictional monthly plan
+B-129,2026-09-01,Tools and supplies,125,Fictional monthly plan
+B-130,2026-09-01,Insurance,125,Fictional monthly plan
+B-131,2026-09-01,Licenses,125,Fictional monthly plan
+B-132,2026-09-01,Software,125,Fictional monthly plan
+B-133,2026-09-01,Advertising,125,Fictional monthly plan
+B-134,2026-09-01,Office,125,Fictional monthly plan
+B-135,2026-09-01,Other expense,125,Fictional monthly plan
+B-136,2026-10-01,Service revenue,15000,Fictional monthly plan
+B-137,2026-10-01,Maintenance plans,500,Fictional monthly plan
+B-138,2026-10-01,Other income,0,Fictional monthly plan
+B-139,2026-10-01,Job materials,2500,Fictional monthly plan
+B-140,2026-10-01,Subcontractors,0,Fictional monthly plan
+B-141,2026-10-01,Direct labor,4000,Fictional monthly plan
+B-142,2026-10-01,Fuel,600,Fictional monthly plan
+B-143,2026-10-01,Vehicle repairs,125,Fictional monthly plan
+B-144,2026-10-01,Tools and supplies,125,Fictional monthly plan
+B-145,2026-10-01,Insurance,125,Fictional monthly plan
+B-146,2026-10-01,Licenses,125,Fictional monthly plan
+B-147,2026-10-01,Software,125,Fictional monthly plan
+B-148,2026-10-01,Advertising,125,Fictional monthly plan
+B-149,2026-10-01,Office,125,Fictional monthly plan
+B-150,2026-10-01,Other expense,125,Fictional monthly plan
+B-151,2026-11-01,Service revenue,15000,Fictional monthly plan
+B-152,2026-11-01,Maintenance plans,500,Fictional monthly plan
+B-153,2026-11-01,Other income,0,Fictional monthly plan
+B-154,2026-11-01,Job materials,2500,Fictional monthly plan
+B-155,2026-11-01,Subcontractors,0,Fictional monthly plan
+B-156,2026-11-01,Direct labor,4000,Fictional monthly plan
+B-157,2026-11-01,Fuel,600,Fictional monthly plan
+B-158,2026-11-01,Vehicle repairs,125,Fictional monthly plan
+B-159,2026-11-01,Tools and supplies,125,Fictional monthly plan
+B-160,2026-11-01,Insurance,125,Fictional monthly plan
+B-161,2026-11-01,Licenses,125,Fictional monthly plan
+B-162,2026-11-01,Software,125,Fictional monthly plan
+B-163,2026-11-01,Advertising,125,Fictional monthly plan
+B-164,2026-11-01,Office,125,Fictional monthly plan
+B-165,2026-11-01,Other expense,125,Fictional monthly plan
+B-166,2026-12-01,Service revenue,15000,Fictional monthly plan
+B-167,2026-12-01,Maintenance plans,500,Fictional monthly plan
+B-168,2026-12-01,Other income,0,Fictional monthly plan
+B-169,2026-12-01,Job materials,2500,Fictional monthly plan
+B-170,2026-12-01,Subcontractors,0,Fictional monthly plan
+B-171,2026-12-01,Direct labor,4000,Fictional monthly plan
+B-172,2026-12-01,Fuel,600,Fictional monthly plan
+B-173,2026-12-01,Vehicle repairs,125,Fictional monthly plan
+B-174,2026-12-01,Tools and supplies,125,Fictional monthly plan
+B-175,2026-12-01,Insurance,125,Fictional monthly plan
+B-176,2026-12-01,Licenses,125,Fictional monthly plan
+B-177,2026-12-01,Software,125,Fictional monthly plan
+B-178,2026-12-01,Advertising,125,Fictional monthly plan
+B-179,2026-12-01,Office,125,Fictional monthly plan
+B-180,2026-12-01,Other expense,125,Fictional monthly plan

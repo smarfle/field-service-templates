@@ -1,0 +1,37 @@
+Lead ID,Client ID,Client name,Phone,Created date,Service,Source,Owner,Stage,Value (USD),Target close,Closed date,Next action,Follow-up date,Probability,Weighted open (USD),Age (days),Notes,Activity count,Last contacted,Job count
+L001,C001,Morgan Ellis,(407) 555-0100,2026-08-19,Cleaning,Google Business Profile,Alex,New,150,2026-09-28,,Call to confirm service details,2026-09-29,0.1,15,45,Fictional sample opportunity,2,,0
+L002,C002,Jamie Parker,(407) 555-0101,2026-08-20,Pest control,Organic search,Jordan,Contacted,375,2026-09-29,,Call to confirm service details,2026-09-30,0.2,75,44,Fictional sample opportunity,2,2026-10-01,0
+L003,C003,Casey Brooks,(407) 555-0102,2026-08-21,HVAC,Referral,Taylor,Qualified,600,2026-09-30,,Call to confirm service details,2026-10-01,0.4,240,43,Fictional sample opportunity,2,,0
+L004,C004,Robin Hayes,(407) 555-0103,2026-08-22,Plumbing,Paid search,Alex,Estimate sent,825,2026-10-01,,Call to confirm service details,2026-10-02,0.6,495,42,Fictional sample opportunity,2,,0
+L005,C005,Sam Walker,(407) 555-0104,2026-08-23,Lawn care,Website form,Jordan,Negotiation,1050,2026-10-02,,Call to confirm service details,2026-10-03,0.8,840,41,Fictional sample opportunity,2,2026-09-17,0
+L006,C006,Avery Cole,(407) 555-0105,2026-08-24,Electrical,Phone call,Taylor,Won,1275,2026-10-03,2026-09-23,,,1,0,30,Fictional sample opportunity,2,,0
+L007,C007,Drew Bennett,(407) 555-0106,2026-08-25,Cleaning,Social media,Alex,Lost,1500,2026-10-04,2026-09-24,,,0,0,30,Fictional sample opportunity,2,,0
+L008,C008,Riley Gray,(407) 555-0107,2026-08-26,Pest control,Google Business Profile,Jordan,New,1725,2026-10-05,,Call to confirm service details,2026-10-06,0.1,172.5,38,Fictional sample opportunity,2,2026-09-20,0
+L009,C009,Cameron Reed,(407) 555-0108,2026-08-27,HVAC,Organic search,Taylor,Contacted,1950,2026-10-06,,Call to confirm service details,2026-10-07,0.2,390,37,Fictional sample opportunity,2,,0
+L010,C010,Quinn Davis,(407) 555-0109,2026-08-28,Plumbing,Referral,Alex,Qualified,150,2026-10-07,,Call to confirm service details,2026-10-08,0.4,60,36,Fictional sample opportunity,1,,0
+L011,C011,Skyler Bell,(407) 555-0110,2026-08-29,Lawn care,Paid search,Jordan,Estimate sent,375,2026-10-08,,Call to confirm service details,2026-09-29,0.6,225,35,Fictional sample opportunity,1,2026-09-23,0
+L012,C012,Dana Foster,(407) 555-0111,2026-08-30,Electrical,Website form,Taylor,Negotiation,600,2026-10-09,,Call to confirm service details,2026-09-30,0.8,480,34,Fictional sample opportunity,1,,0
+L013,C013,Blake Ross,(407) 555-0112,2026-08-31,Cleaning,Phone call,Alex,Won,825,2026-09-28,2026-09-18,,,1,0,18,Fictional sample opportunity,1,,0
+L014,C014,Reese Adams,(407) 555-0113,2026-09-01,Pest control,Social media,Jordan,Lost,1050,2026-09-29,2026-09-19,,,0,0,18,Fictional sample opportunity,1,2026-09-26,0
+L015,C015,Alexis Young,(407) 555-0114,2026-09-02,HVAC,Google Business Profile,Taylor,New,1275,2026-09-30,,Call to confirm service details,2026-10-03,0.1,127.5,31,Fictional sample opportunity,1,,0
+L016,C016,Emery Scott,(407) 555-0115,2026-09-03,Plumbing,Organic search,Alex,Contacted,1500,2026-10-01,,Call to confirm service details,2026-10-04,0.2,300,30,Fictional sample opportunity,1,,0
+L017,C017,Finley Evans,(407) 555-0116,2026-09-04,Lawn care,Referral,Jordan,Qualified,1725,2026-10-02,,Call to confirm service details,2026-10-05,0.4,690,29,Fictional sample opportunity,1,2026-09-29,0
+L018,C018,Devon Price,(407) 555-0117,2026-09-05,Electrical,Paid search,Taylor,Estimate sent,1950,2026-10-03,,Call to confirm service details,2026-10-06,0.6,1170,28,Fictional sample opportunity,1,,0
+L019,C019,Harper Lane,(407) 555-0118,2026-09-06,Cleaning,Website form,Alex,Negotiation,150,2026-10-04,,Call to confirm service details,2026-10-07,0.8,120,27,Fictional sample opportunity,1,,0
+L020,C020,Rowan Mills,(407) 555-0119,2026-09-07,Pest control,Phone call,Jordan,Won,375,2026-10-05,2026-09-25,,,1,0,18,Fictional sample opportunity,1,2026-09-13,0
+L021,C001,Morgan Ellis,(407) 555-0100,2026-09-08,HVAC,Social media,Taylor,Lost,600,2026-10-06,2026-09-26,,,0,0,18,Fictional sample opportunity,1,,0
+L022,C002,Jamie Parker,(407) 555-0101,2026-09-09,Plumbing,Google Business Profile,Alex,New,825,2026-10-07,,Call to confirm service details,2026-09-30,0.1,82.5,24,Fictional sample opportunity,1,,0
+L023,C003,Casey Brooks,(407) 555-0102,2026-09-10,Lawn care,Organic search,Jordan,Contacted,1050,2026-10-08,,Call to confirm service details,2026-10-01,0.2,210,23,Fictional sample opportunity,1,2026-09-16,0
+L024,C004,Robin Hayes,(407) 555-0103,2026-09-11,Electrical,Referral,Taylor,Qualified,1275,2026-10-09,,Call to confirm service details,2026-10-02,0.4,510,22,Fictional sample opportunity,1,,0
+L025,C005,Sam Walker,(407) 555-0104,2026-09-12,Cleaning,Paid search,Alex,Estimate sent,1500,2026-09-28,,Call to confirm service details,2026-10-03,0.6,900,21,Fictional sample opportunity,1,,0
+L026,C006,Avery Cole,(407) 555-0105,2026-09-13,Pest control,Website form,Jordan,Negotiation,1725,2026-09-29,,Call to confirm service details,2026-10-04,0.8,1380,20,Fictional sample opportunity,1,2026-09-19,0
+L027,C007,Drew Bennett,(407) 555-0106,2026-09-14,HVAC,Phone call,Taylor,Won,1950,2026-09-30,2026-09-20,,,1,0,6,Fictional sample opportunity,1,,1
+L028,C008,Riley Gray,(407) 555-0107,2026-09-15,Plumbing,Social media,Alex,Lost,150,2026-10-01,2026-09-21,,,0,0,6,Fictional sample opportunity,1,,0
+L029,C009,Cameron Reed,(407) 555-0108,2026-09-16,Lawn care,Google Business Profile,Jordan,New,375,2026-10-02,,Call to confirm service details,2026-10-07,0.1,37.5,17,Fictional sample opportunity,1,2026-09-22,0
+L030,C010,Quinn Davis,(407) 555-0109,2026-09-17,Electrical,Organic search,Taylor,Contacted,600,2026-10-03,,Call to confirm service details,2026-10-08,0.2,120,16,Fictional sample opportunity,1,,0
+L031,C011,Skyler Bell,(407) 555-0110,2026-09-18,Cleaning,Referral,Alex,Qualified,825,2026-10-04,,Call to confirm service details,2026-09-29,0.4,330,15,Fictional sample opportunity,1,,0
+L032,C012,Dana Foster,(407) 555-0111,2026-09-19,Pest control,Paid search,Jordan,Estimate sent,1050,2026-10-05,,Call to confirm service details,2026-09-30,0.6,630,14,Fictional sample opportunity,1,2026-09-25,0
+L033,C013,Blake Ross,(407) 555-0112,2026-09-20,HVAC,Website form,Taylor,Negotiation,1275,2026-10-06,,Call to confirm service details,2026-10-01,0.8,1020,13,Fictional sample opportunity,1,,0
+L034,C014,Reese Adams,(407) 555-0113,2026-09-21,Plumbing,Phone call,Alex,Won,1500,2026-10-07,2026-09-27,,,1,0,6,Fictional sample opportunity,1,,1
+L035,C015,Alexis Young,(407) 555-0114,2026-09-22,Lawn care,Social media,Jordan,Lost,1725,2026-10-08,2026-09-28,,,0,0,6,Fictional sample opportunity,1,2026-09-28,0
+L036,C016,Emery Scott,(407) 555-0115,2026-09-23,Electrical,Google Business Profile,Taylor,New,1950,2026-10-09,,Call to confirm service details,2026-10-04,0.1,195,10,Fictional sample opportunity,1,,0

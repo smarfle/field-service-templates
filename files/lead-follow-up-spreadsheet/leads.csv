@@ -1,0 +1,10 @@
+Lead ID,Received date and time,Name,Phone,Email,Service wanted,Source,Owner ID,Estimated value,Stage,Lost reason,Next action,Next follow-up date,Notes
+L001,2026-11-10 15:30,Morgan Ellis,2025550101,morgan@example.com,HVAC maintenance,Website,O001,500,New,,Call,,
+L002,2026-11-10 14:00,Jamie Reed,2025550102,jamie@example.com,deep cleaning,Google,O002,250,New,,Call,,
+L003,2026-11-09 09:00,Casey Brooks,202-555-0103,casey@example.com,pest control service,Referral,O001,900,Contacted,,Send quote,,
+L004,2026-11-06 10:00,Drew Bennett,2025550104,drew@example.com,lawn mowing,Phone,O002,200,Following up,,Call,,
+L005,2026-11-01 10:00,Alex West,2025550105,alex@example.com,HVAC maintenance,Website,O001,1500,Quoted,,Email,,Cadence exhausted example
+L006,2026-10-28 10:00,Jordan Fox,2025550106,jordan@example.com,pool maintenance,Referral,O001,1200,Won,,Call,,
+L007,2026-11-03 09:00,Taylor Green,2025550107,taylor@example.com,deep cleaning,Google,O002,300,Lost,Outside service area,Call,,
+L008,2026-11-08 14:00,Riley Hart,(202) 555-0103,riley@example.com,pest control service,Phone,O002,800,Contacted,,Text,2026-11-12,Manual date overrides cadence
+L009,2026-11-07 09:00,Quinn Stone,2025550109,quinn@example.com,pool maintenance,Other,O001,100,Following up,,Email,,Imported lead without attempt history

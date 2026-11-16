@@ -1,0 +1,15 @@
+Transaction ID,Date,Item ID,Item / part,Movement type,Quantity (+),Signed quantity,Supplier ID (optional),Supplier,"Unit cost (USD, optional)",Movement value (USD),Job / receipt reference,Notes
+T001,2026-09-01,I001,All-purpose cleaner,Opening,20,20,,,12,240,COUNT-001,SAMPLE: starting count
+T002,2026-09-15,I001,All-purpose cleaner,Use,15,-15,,,,-180,JOB-101,SAMPLE: supplies used
+T003,2026-10-01,I002,Nitrile gloves,Opening,10,10,,,9,90,COUNT-002,SAMPLE: starting count
+T004,2026-10-02,I002,Nitrile gloves,Receive,6,6,S001,Example Cleaning Supply,10,60,PO-100,SAMPLE: actual receipt cost
+T005,2026-10-03,I002,Nitrile gloves,Use,4,-4,,,,-36,JOB-102,SAMPLE: used on job
+T006,2026-10-01,I003,Air filter 16x20x1,Opening,12,12,,,8,96,COUNT-003,SAMPLE: starting count
+T007,2026-10-02,I003,Air filter 16x20x1,Use,8,-8,,,,-64,JOB-103,SAMPLE: filters installed
+T008,2026-10-01,I004,Pest bait station,Opening,20,20,,,4,80,COUNT-004,SAMPLE: starting count
+T009,2026-10-03,I004,Pest bait station,Use,7,-7,,,,-28,JOB-104,SAMPLE: pest service
+T010,2026-10-03,I004,Pest bait station,Customer return,2,2,,,4,8,JOB-104,SAMPLE: unused units returned
+T011,2026-10-01,I005,PVC elbow 3/4 inch,Opening,2,2,,,2,4,COUNT-005,SAMPLE: starting count
+T012,2026-10-03,I005,PVC elbow 3/4 inch,Use,4,-4,,,,-8,JOB-105,SAMPLE: intentional negative stock
+T013,2026-10-03,I006,Donated microfiber cloth,Opening,5,5,,,0,0,DON-001,SAMPLE: zero cost
+T014,2026-10-05,I001,All-purpose cleaner,Receive,20,20,S001,Example Cleaning Supply,12,240,PO-101,SAMPLE: future receipt excluded

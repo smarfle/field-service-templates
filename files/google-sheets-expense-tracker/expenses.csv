@@ -1,0 +1,7 @@
+Date,Vendor,Amount,Category,Description,Payment method,Client ID,Job ID,Tax paid,Receipt link,Reimbursable?,Paid by,Status,Expense ID
+2026-11-01,Bay Parts,106.5,Supplies,Filter and gasket,Personal card,,J001,6.5,,Yes,Jordan Lane (Sample),Posted,EX-001
+2026-11-02,East Fuel,75,Fuel,Van fuel,Company card,,,,,No,,Posted,EX-002
+2026-11-03,Fresh Supply,42,Supplies,Cleaning concentrate,Company card,C002,J002,2,,No,,Posted,EX-003
+2026-11-03,Fresh Supply,42,Supplies,Second receipt to review,Company card,C002,J002,2,,No,,Posted,EX-004
+2026-11-04,Harbor Office,18,Office,Client site copies,Personal card,C001,,,,Yes,Casey West (Sample),Reimbursed,EX-005
+2026-10-05,West Auto,89,Vehicle repairs,Van tire service,Company card,,,4,,No,,Posted,EX-006

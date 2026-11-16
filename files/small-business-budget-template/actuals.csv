@@ -1,0 +1,166 @@
+Actual ID,Date,Category,Amount,Description
+A-1,2026-01-05,Service revenue,14000,Fictional actual amount
+A-2,2026-01-05,Maintenance plans,450,Fictional actual amount
+A-3,2026-01-05,Other income,0,Fictional actual amount
+A-4,2026-01-05,Job materials,2800,Fictional actual amount
+A-5,2026-01-05,Subcontractors,0,Fictional actual amount
+A-6,2026-01-05,Direct labor,3900,Fictional actual amount
+A-7,2026-01-05,Fuel,700,Fictional actual amount
+A-8,2026-01-05,Vehicle repairs,110,Fictional actual amount
+A-9,2026-01-05,Tools and supplies,110,Fictional actual amount
+A-10,2026-01-05,Insurance,110,Fictional actual amount
+A-11,2026-01-05,Licenses,110,Fictional actual amount
+A-12,2026-01-05,Software,110,Fictional actual amount
+A-13,2026-01-05,Advertising,110,Fictional actual amount
+A-14,2026-01-05,Office,110,Fictional actual amount
+A-15,2026-01-05,Other expense,110,Fictional actual amount
+A-16,2026-02-05,Service revenue,14000,Fictional actual amount
+A-17,2026-02-05,Maintenance plans,450,Fictional actual amount
+A-18,2026-02-05,Other income,0,Fictional actual amount
+A-19,2026-02-05,Job materials,2800,Fictional actual amount
+A-20,2026-02-05,Subcontractors,0,Fictional actual amount
+A-21,2026-02-05,Direct labor,3900,Fictional actual amount
+A-22,2026-02-05,Fuel,700,Fictional actual amount
+A-23,2026-02-05,Vehicle repairs,110,Fictional actual amount
+A-24,2026-02-05,Tools and supplies,110,Fictional actual amount
+A-25,2026-02-05,Insurance,110,Fictional actual amount
+A-26,2026-02-05,Licenses,110,Fictional actual amount
+A-27,2026-02-05,Software,110,Fictional actual amount
+A-28,2026-02-05,Advertising,110,Fictional actual amount
+A-29,2026-02-05,Office,110,Fictional actual amount
+A-30,2026-02-05,Other expense,110,Fictional actual amount
+A-31,2026-03-05,Service revenue,14000,Fictional actual amount
+A-32,2026-03-05,Maintenance plans,450,Fictional actual amount
+A-33,2026-03-05,Other income,0,Fictional actual amount
+A-34,2026-03-05,Job materials,2800,Fictional actual amount
+A-35,2026-03-05,Subcontractors,0,Fictional actual amount
+A-36,2026-03-05,Direct labor,3900,Fictional actual amount
+A-37,2026-03-05,Fuel,700,Fictional actual amount
+A-38,2026-03-05,Vehicle repairs,110,Fictional actual amount
+A-39,2026-03-05,Tools and supplies,110,Fictional actual amount
+A-40,2026-03-05,Insurance,110,Fictional actual amount
+A-41,2026-03-05,Licenses,110,Fictional actual amount
+A-42,2026-03-05,Software,110,Fictional actual amount
+A-43,2026-03-05,Advertising,110,Fictional actual amount
+A-44,2026-03-05,Office,110,Fictional actual amount
+A-45,2026-03-05,Other expense,110,Fictional actual amount
+A-46,2026-04-05,Service revenue,14000,Fictional actual amount
+A-47,2026-04-05,Maintenance plans,450,Fictional actual amount
+A-48,2026-04-05,Other income,0,Fictional actual amount
+A-49,2026-04-05,Job materials,2800,Fictional actual amount
+A-50,2026-04-05,Subcontractors,0,Fictional actual amount
+A-51,2026-04-05,Direct labor,3900,Fictional actual amount
+A-52,2026-04-05,Fuel,700,Fictional actual amount
+A-53,2026-04-05,Vehicle repairs,110,Fictional actual amount
+A-54,2026-04-05,Tools and supplies,110,Fictional actual amount
+A-55,2026-04-05,Insurance,110,Fictional actual amount
+A-56,2026-04-05,Licenses,110,Fictional actual amount
+A-57,2026-04-05,Software,110,Fictional actual amount
+A-58,2026-04-05,Advertising,110,Fictional actual amount
+A-59,2026-04-05,Office,110,Fictional actual amount
+A-60,2026-04-05,Other expense,110,Fictional actual amount
+A-61,2026-05-05,Service revenue,14000,Fictional actual amount
+A-62,2026-05-05,Maintenance plans,450,Fictional actual amount
+A-63,2026-05-05,Other income,0,Fictional actual amount
+A-64,2026-05-05,Job materials,2800,Fictional actual amount
+A-65,2026-05-05,Subcontractors,0,Fictional actual amount
+A-66,2026-05-05,Direct labor,3900,Fictional actual amount
+A-67,2026-05-05,Fuel,700,Fictional actual amount
+A-68,2026-05-05,Vehicle repairs,110,Fictional actual amount
+A-69,2026-05-05,Tools and supplies,110,Fictional actual amount
+A-70,2026-05-05,Insurance,110,Fictional actual amount
+A-71,2026-05-05,Licenses,110,Fictional actual amount
+A-72,2026-05-05,Software,110,Fictional actual amount
+A-73,2026-05-05,Advertising,110,Fictional actual amount
+A-74,2026-05-05,Office,110,Fictional actual amount
+A-75,2026-05-05,Other expense,110,Fictional actual amount
+A-76,2026-06-05,Service revenue,14000,Fictional actual amount
+A-77,2026-06-05,Maintenance plans,450,Fictional actual amount
+A-78,2026-06-05,Other income,0,Fictional actual amount
+A-79,2026-06-05,Job materials,2800,Fictional actual amount
+A-80,2026-06-05,Subcontractors,0,Fictional actual amount
+A-81,2026-06-05,Direct labor,3900,Fictional actual amount
+A-82,2026-06-05,Fuel,700,Fictional actual amount
+A-83,2026-06-05,Vehicle repairs,110,Fictional actual amount
+A-84,2026-06-05,Tools and supplies,110,Fictional actual amount
+A-85,2026-06-05,Insurance,110,Fictional actual amount
+A-86,2026-06-05,Licenses,110,Fictional actual amount
+A-87,2026-06-05,Software,110,Fictional actual amount
+A-88,2026-06-05,Advertising,110,Fictional actual amount
+A-89,2026-06-05,Office,110,Fictional actual amount
+A-90,2026-06-05,Other expense,110,Fictional actual amount
+A-91,2026-07-05,Service revenue,14000,Fictional actual amount
+A-92,2026-07-05,Maintenance plans,450,Fictional actual amount
+A-93,2026-07-05,Other income,0,Fictional actual amount
+A-94,2026-07-05,Job materials,2800,Fictional actual amount
+A-95,2026-07-05,Subcontractors,0,Fictional actual amount
+A-96,2026-07-05,Direct labor,3900,Fictional actual amount
+A-97,2026-07-05,Fuel,700,Fictional actual amount
+A-98,2026-07-05,Vehicle repairs,110,Fictional actual amount
+A-99,2026-07-05,Tools and supplies,110,Fictional actual amount
+A-100,2026-07-05,Insurance,110,Fictional actual amount
+A-101,2026-07-05,Licenses,110,Fictional actual amount
+A-102,2026-07-05,Software,110,Fictional actual amount
+A-103,2026-07-05,Advertising,110,Fictional actual amount
+A-104,2026-07-05,Office,110,Fictional actual amount
+A-105,2026-07-05,Other expense,110,Fictional actual amount
+A-106,2026-08-05,Service revenue,14000,Fictional actual amount
+A-107,2026-08-05,Maintenance plans,450,Fictional actual amount
+A-108,2026-08-05,Other income,0,Fictional actual amount
+A-109,2026-08-05,Job materials,2800,Fictional actual amount
+A-110,2026-08-05,Subcontractors,0,Fictional actual amount
+A-111,2026-08-05,Direct labor,3900,Fictional actual amount
+A-112,2026-08-05,Fuel,700,Fictional actual amount
+A-113,2026-08-05,Vehicle repairs,110,Fictional actual amount
+A-114,2026-08-05,Tools and supplies,110,Fictional actual amount
+A-115,2026-08-05,Insurance,110,Fictional actual amount
+A-116,2026-08-05,Licenses,110,Fictional actual amount
+A-117,2026-08-05,Software,110,Fictional actual amount
+A-118,2026-08-05,Advertising,110,Fictional actual amount
+A-119,2026-08-05,Office,110,Fictional actual amount
+A-120,2026-08-05,Other expense,110,Fictional actual amount
+A-121,2026-09-05,Service revenue,14000,Fictional actual amount
+A-122,2026-09-05,Maintenance plans,450,Fictional actual amount
+A-123,2026-09-05,Other income,0,Fictional actual amount
+A-124,2026-09-05,Job materials,2800,Fictional actual amount
+A-125,2026-09-05,Subcontractors,0,Fictional actual amount
+A-126,2026-09-05,Direct labor,3900,Fictional actual amount
+A-127,2026-09-05,Fuel,700,Fictional actual amount
+A-128,2026-09-05,Vehicle repairs,110,Fictional actual amount
+A-129,2026-09-05,Tools and supplies,110,Fictional actual amount
+A-130,2026-09-05,Insurance,110,Fictional actual amount
+A-131,2026-09-05,Licenses,110,Fictional actual amount
+A-132,2026-09-05,Software,110,Fictional actual amount
+A-133,2026-09-05,Advertising,110,Fictional actual amount
+A-134,2026-09-05,Office,110,Fictional actual amount
+A-135,2026-09-05,Other expense,110,Fictional actual amount
+A-136,2026-10-05,Service revenue,14000,Fictional actual amount
+A-137,2026-10-05,Maintenance plans,450,Fictional actual amount
+A-138,2026-10-05,Other income,0,Fictional actual amount
+A-139,2026-10-05,Job materials,2800,Fictional actual amount
+A-140,2026-10-05,Subcontractors,0,Fictional actual amount
+A-141,2026-10-05,Direct labor,3900,Fictional actual amount
+A-142,2026-10-05,Fuel,700,Fictional actual amount
+A-143,2026-10-05,Vehicle repairs,110,Fictional actual amount
+A-144,2026-10-05,Tools and supplies,110,Fictional actual amount
+A-145,2026-10-05,Insurance,110,Fictional actual amount
+A-146,2026-10-05,Licenses,110,Fictional actual amount
+A-147,2026-10-05,Software,110,Fictional actual amount
+A-148,2026-10-05,Advertising,110,Fictional actual amount
+A-149,2026-10-05,Office,110,Fictional actual amount
+A-150,2026-10-05,Other expense,110,Fictional actual amount
+A-151,2026-11-05,Service revenue,14000,Fictional actual amount
+A-152,2026-11-05,Maintenance plans,450,Fictional actual amount
+A-153,2026-11-05,Other income,0,Fictional actual amount
+A-154,2026-11-05,Job materials,2800,Fictional actual amount
+A-155,2026-11-05,Subcontractors,0,Fictional actual amount
+A-156,2026-11-05,Direct labor,3900,Fictional actual amount
+A-157,2026-11-05,Fuel,700,Fictional actual amount
+A-158,2026-11-05,Vehicle repairs,110,Fictional actual amount
+A-159,2026-11-05,Tools and supplies,110,Fictional actual amount
+A-160,2026-11-05,Insurance,110,Fictional actual amount
+A-161,2026-11-05,Licenses,110,Fictional actual amount
+A-162,2026-11-05,Software,110,Fictional actual amount
+A-163,2026-11-05,Advertising,110,Fictional actual amount
+A-164,2026-11-05,Office,110,Fictional actual amount
+A-165,2026-11-05,Other expense,110,Fictional actual amount

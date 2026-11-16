@@ -1,0 +1,9 @@
+Item,Description,Unit,Unit price,Taxable,Kind
+HVAC filter,"HVAC filter, supplied and fitted",each,45,Yes,Material
+coil cleaner,Coil cleaner used on the job,each,10,Yes,Material
+cleaning supplies,Cleaning supplies used for the agreed scope,each,12,Yes,Material
+pest control kit,Pest control treatment kit,each,35,Yes,Material
+custom material,Custom material. Enter a price before printing,each,,No,Material
+free inspection,Free initial inspection,visit,0,No,Service
+HVAC maintenance,HVAC maintenance visit,visit,125,No,Service
+labor service,Labor service billed by the hour,hour,85,No,Service

@@ -1,0 +1,46 @@
+Activity ID,Lead ID,Client name,Activity date,Type,Owner,Summary / next step,Task due date,Status,ID / lead check
+A001,L001,Morgan Ellis,2026-09-13,Call,Alex,Confirm access to property,2026-09-30,Open,OK
+A002,L002,Jamie Parker,2026-09-14,Email,Jordan,Send service estimate,2026-10-01,Done,OK
+A003,L003,Casey Brooks,2026-09-15,SMS,Taylor,Check decision timeline,2026-10-02,Canceled,OK
+A004,L004,Robin Hayes,2026-09-16,Visit,Alex,Discuss recurring service,2026-10-03,Open,OK
+A005,L005,Sam Walker,2026-09-17,Estimate follow-up,Jordan,Follow up on estimate,2026-10-04,Done,OK
+A006,L006,Avery Cole,2026-09-18,Call,Taylor,Confirm access to property,2026-10-05,Canceled,OK
+A007,L007,Drew Bennett,2026-09-19,Email,Alex,Send service estimate,2026-10-06,Open,OK
+A008,L008,Riley Gray,2026-09-20,SMS,Jordan,Check decision timeline,2026-10-07,Done,OK
+A009,L009,Cameron Reed,2026-09-21,Visit,Taylor,Discuss recurring service,2026-09-30,Canceled,OK
+A010,L010,Quinn Davis,2026-09-22,Estimate follow-up,Alex,Follow up on estimate,2026-10-01,Open,OK
+A011,L011,Skyler Bell,2026-09-23,Call,Jordan,Confirm access to property,2026-10-02,Done,OK
+A012,L012,Dana Foster,2026-09-24,Email,Taylor,Send service estimate,2026-10-03,Canceled,OK
+A013,L013,Blake Ross,2026-09-25,SMS,Alex,Check decision timeline,2026-10-04,Open,OK
+A014,L014,Reese Adams,2026-09-26,Visit,Jordan,Discuss recurring service,2026-10-05,Done,OK
+A015,L015,Alexis Young,2026-09-27,Estimate follow-up,Taylor,Follow up on estimate,2026-10-06,Canceled,OK
+A016,L016,Emery Scott,2026-09-28,Call,Alex,Confirm access to property,2026-10-07,Open,OK
+A017,L017,Finley Evans,2026-09-29,Email,Jordan,Send service estimate,2026-09-30,Done,OK
+A018,L018,Devon Price,2026-09-30,SMS,Taylor,Check decision timeline,2026-10-01,Canceled,OK
+A019,L019,Harper Lane,2026-10-01,Visit,Alex,Discuss recurring service,2026-10-02,Open,OK
+A020,L020,Rowan Mills,2026-09-13,Estimate follow-up,Jordan,Follow up on estimate,2026-10-03,Done,OK
+A021,L021,Morgan Ellis,2026-09-14,Call,Taylor,Confirm access to property,2026-10-04,Canceled,OK
+A022,L022,Jamie Parker,2026-09-15,Email,Alex,Send service estimate,2026-10-05,Open,OK
+A023,L023,Casey Brooks,2026-09-16,SMS,Jordan,Check decision timeline,2026-10-06,Done,OK
+A024,L024,Robin Hayes,2026-09-17,Visit,Taylor,Discuss recurring service,2026-10-07,Canceled,OK
+A025,L025,Sam Walker,2026-09-18,Estimate follow-up,Alex,Follow up on estimate,2026-09-30,Open,OK
+A026,L026,Avery Cole,2026-09-19,Call,Jordan,Confirm access to property,2026-10-01,Done,OK
+A027,L027,Drew Bennett,2026-09-20,Email,Taylor,Send service estimate,2026-10-02,Canceled,OK
+A028,L028,Riley Gray,2026-09-21,SMS,Alex,Check decision timeline,2026-10-03,Open,OK
+A029,L029,Cameron Reed,2026-09-22,Visit,Jordan,Discuss recurring service,2026-10-04,Done,OK
+A030,L030,Quinn Davis,2026-09-23,Estimate follow-up,Taylor,Follow up on estimate,2026-10-05,Canceled,OK
+A031,L031,Skyler Bell,2026-09-24,Call,Alex,Confirm access to property,2026-10-06,Open,OK
+A032,L032,Dana Foster,2026-09-25,Email,Jordan,Send service estimate,2026-10-07,Done,OK
+A033,L033,Blake Ross,2026-09-26,SMS,Taylor,Check decision timeline,2026-09-30,Canceled,OK
+A034,L034,Reese Adams,2026-09-27,Visit,Alex,Discuss recurring service,2026-10-01,Open,OK
+A035,L035,Alexis Young,2026-09-28,Estimate follow-up,Jordan,Follow up on estimate,2026-10-02,Done,OK
+A036,L036,Emery Scott,2026-09-29,Call,Taylor,Confirm access to property,2026-10-03,Canceled,OK
+A037,L001,Morgan Ellis,2026-09-30,Email,Alex,Send service estimate,2026-10-04,Open,OK
+A038,L002,Jamie Parker,2026-10-01,SMS,Jordan,Check decision timeline,2026-10-05,Done,OK
+A039,L003,Casey Brooks,2026-09-13,Visit,Taylor,Discuss recurring service,2026-10-06,Canceled,OK
+A040,L004,Robin Hayes,2026-09-14,Estimate follow-up,Alex,Follow up on estimate,2026-10-07,Open,OK
+A041,L005,Sam Walker,2026-09-15,Call,Jordan,Confirm access to property,2026-09-30,Done,OK
+A042,L006,Avery Cole,2026-09-16,Email,Taylor,Send service estimate,2026-10-01,Canceled,OK
+A043,L007,Drew Bennett,2026-09-17,SMS,Alex,Check decision timeline,2026-10-02,Open,OK
+A044,L008,Riley Gray,2026-09-18,Visit,Jordan,Discuss recurring service,2026-10-03,Done,OK
+A045,L009,Cameron Reed,2026-09-19,Estimate follow-up,Taylor,Follow up on estimate,2026-10-04,Canceled,OK

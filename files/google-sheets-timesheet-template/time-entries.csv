@@ -1,0 +1,8 @@
+Entry ID,Start date,Employee ID,Job or client,Start time,End time,Unpaid break minutes,Approval status,Notes
+TE-1,2026-11-09,E001,Fictional client visit,09:00,17:00,30,Approved,
+TE-2,2026-11-10,E001,Overnight shop service,22:00,06:00,30,Approved,
+TE-3,2026-11-11,E001,Fictional client visit,09:00,17:00,0,Approved,
+TE-4,2026-11-12,E001,Fictional client visit,09:00,17:00,0,Approved,
+TE-5,2026-11-13,E001,Fictional client visit,09:00,17:00,0,Approved,
+TE-6,2026-11-14,E001,Fictional client visit,09:00,12:00,0,Approved,
+TE-7,2026-11-09,E002,Fictional cleaning client,08:00,12:00,0,Submitted,

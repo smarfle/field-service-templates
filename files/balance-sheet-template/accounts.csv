@@ -1,0 +1,14 @@
+Account ID,Account name,Classification,Quick asset
+A101,Checking,Current asset,Yes
+A102,Savings,Current asset,Yes
+A103,Accounts receivable,Current asset,Yes
+A104,Inventory,Current asset,No
+A105,Prepaid expenses,Current asset,No
+A201,Equipment,Fixed asset,No
+A202,Accumulated depreciation,Fixed asset,No
+L101,Accounts payable,Current liability,No
+L102,Credit card balance,Current liability,No
+L103,Current portion of loan,Current liability,No
+L201,Long-term loan,Long-term liability,No
+E101,Owner capital,Equity,No
+E102,Retained earnings,Equity,No
