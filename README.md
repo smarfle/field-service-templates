@@ -81,6 +81,11 @@ Practical advice, matching templates and common questions for each trade, in the
 - [HVAC](https://sites.google.com/view/smarfle-field-service-library/hvac)
 - [Plumbing](https://sites.google.com/view/smarfle-field-service-library/plumbing)
 - [Handyman](https://sites.google.com/view/smarfle-field-service-library/handyman)
+- [Pressure washing](https://sites.google.com/view/smarfle-field-service-library/pressure-washing)
+- [Tree service](https://sites.google.com/view/smarfle-field-service-library/tree-service)
+- [Garage door](https://sites.google.com/view/smarfle-field-service-library/garage-door)
+- [Car wash](https://sites.google.com/view/smarfle-field-service-library/car-wash)
+- [Security and alarm](https://sites.google.com/view/smarfle-field-service-library/security-alarm)
 
 ## When a spreadsheet is no longer enough
 
