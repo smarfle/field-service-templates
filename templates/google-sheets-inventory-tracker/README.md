@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Inventory Tracker"
 description: "Parts and supplies on hand, every stock movement, reorder alerts and inventory value."
+permalink: /templates/google-sheets-inventory-tracker/
 ---
 
 # Free Google Sheets Inventory Tracker

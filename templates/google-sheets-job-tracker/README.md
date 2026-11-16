@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Job Tracker"
 description: "Every job from quote to payment, with crew, status, invoice dates and profit after materials and labor."
+permalink: /templates/google-sheets-job-tracker/
 ---
 
 # Free Google Sheets Job Tracker

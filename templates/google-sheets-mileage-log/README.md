@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Mileage Log"
 description: "Business trips by driver and vehicle, miles from odometer or entered, and a printable monthly reimbursement log."
+permalink: /templates/google-sheets-mileage-log/
 ---
 
 # Free Google Sheets Mileage Log

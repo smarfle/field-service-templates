@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Contact List"
 description: "A clean customer and vendor address book with duplicate warnings and a Google Contacts export."
+permalink: /templates/google-sheets-contact-list/
 ---
 
 # Free Google Sheets Contact List

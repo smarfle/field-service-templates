@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Work Order Template"
 description: "A printable work order with a checklist and signature lines, plus a log of jobs and materials."
+permalink: /templates/google-sheets-work-order-template/
 ---
 
 # Free Google Sheets Work Order Template

@@ -1,6 +1,7 @@
 ---
 title: "Free Proposal Template for Service Businesses"
 description: "Scope, timeline, what is included, pricing options and acceptance for larger jobs."
+permalink: /templates/proposal-template-for-service-businesses/
 ---
 
 # Free Proposal Template for Service Businesses

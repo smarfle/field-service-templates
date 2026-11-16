@@ -1,6 +1,7 @@
 ---
 title: "Free Profit and Loss Statement Template"
 description: "Monthly income and expenses by category, gross and net profit, margin and year to date."
+permalink: /templates/profit-and-loss-statement-template/
 ---
 
 # Free Profit and Loss Statement Template

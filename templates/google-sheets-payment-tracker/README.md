@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Payment Tracker"
 description: "Payments by invoice and method, card fees, refunds and bank deposit matching."
+permalink: /templates/google-sheets-payment-tracker/
 ---
 
 # Free Google Sheets Payment Tracker

@@ -1,6 +1,7 @@
 ---
 title: "Free Subcontractor Agreement Template"
 description: "Scope, changes, payment and retainage, insurance, lien waivers, closeout and warranty."
+permalink: /templates/subcontractor-agreement-template/
 ---
 
 # Free Subcontractor Agreement Template

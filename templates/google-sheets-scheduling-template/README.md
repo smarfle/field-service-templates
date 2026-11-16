@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Scheduling Template"
 description: "A weekly staff schedule with availability, time off, overtime and rest warnings."
+permalink: /templates/google-sheets-scheduling-template/
 ---
 
 # Free Google Sheets Scheduling Template

@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Lead Tracker"
 description: "Leads and won jobs by source, cost per lead and return on marketing spend."
+permalink: /templates/google-sheets-lead-tracker/
 ---
 
 # Free Google Sheets Lead Tracker

@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Payroll Template"
 description: "Hours by pay period, regular and overtime pay, deductions and net pay to review before payday."
+permalink: /templates/google-sheets-payroll-template/
 ---
 
 # Free Google Sheets Payroll Template

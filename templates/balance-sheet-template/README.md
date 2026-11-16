@@ -1,6 +1,7 @@
 ---
 title: "Free Balance Sheet Template"
 description: "Assets, liabilities and owner's equity for two dates side by side, with a balance check and key ratios."
+permalink: /templates/balance-sheet-template/
 ---
 
 # Free Balance Sheet Template

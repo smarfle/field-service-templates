@@ -1,6 +1,7 @@
 ---
 title: "Free Lead Follow Up Spreadsheet"
 description: "Today's call list, a follow-up cadence, every contact attempt and speed to lead alerts."
+permalink: /templates/lead-follow-up-spreadsheet/
 ---
 
 # Free Lead Follow Up Spreadsheet

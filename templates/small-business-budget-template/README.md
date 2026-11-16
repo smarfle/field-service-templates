@@ -1,6 +1,7 @@
 ---
 title: "Free Small Business Budget Template"
 description: "A monthly budget for income and expense categories with actuals, variance and over-budget alerts."
+permalink: /templates/small-business-budget-template/
 ---
 
 # Free Small Business Budget Template

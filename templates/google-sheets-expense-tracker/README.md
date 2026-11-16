@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Expense Tracker"
 description: "Spending by job, category and month, with missing receipt and reimbursement alerts."
+permalink: /templates/google-sheets-expense-tracker/
 ---
 
 # Free Google Sheets Expense Tracker

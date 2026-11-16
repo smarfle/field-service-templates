@@ -1,6 +1,7 @@
 ---
 title: "Free Service Level Agreement Template"
 description: "Service hours, response times by priority, reporting and remedies for commercial customers."
+permalink: /templates/service-level-agreement-template/
 ---
 
 # Free Service Level Agreement Template

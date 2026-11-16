@@ -1,6 +1,7 @@
 ---
 title: "Free Google Docs Invoice Template"
 description: "A one-page invoice with line items, discount, tax, amount paid and balance due, plus a filled sample."
+permalink: /templates/google-docs-invoice-template/
 ---
 
 # Free Google Docs Invoice Template

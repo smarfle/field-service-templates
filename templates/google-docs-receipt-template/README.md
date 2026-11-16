@@ -1,6 +1,7 @@
 ---
 title: "Free Google Docs Receipt Template"
 description: "Amount received, balance remaining and payment method, on a full page or two receipts per page."
+permalink: /templates/google-docs-receipt-template/
 ---
 
 # Free Google Docs Receipt Template

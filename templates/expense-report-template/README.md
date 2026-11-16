@@ -1,6 +1,7 @@
 ---
 title: "Free Expense Report Template"
 description: "A printable employee expense report with mileage, advances, category totals and the amount owed back."
+permalink: /templates/expense-report-template/
 ---
 
 # Free Expense Report Template

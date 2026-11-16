@@ -1,6 +1,7 @@
 ---
 title: "Free Work Order Form Template"
 description: "A one-page job record with tasks, parts used, labor hours, before and after notes and the customer's signature."
+permalink: /templates/work-order-form-template/
 ---
 
 # Free Work Order Form Template

@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets CRM Template"
 description: "Clients, leads, jobs, invoices and follow-ups in one workbook with a pipeline dashboard."
+permalink: /templates/google-sheets-crm-template/
 ---
 
 # Free Google Sheets CRM Template

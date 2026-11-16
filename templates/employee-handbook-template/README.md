@@ -1,6 +1,7 @@
 ---
 title: "Free Employee Handbook Template"
 description: "Hours, pay, overtime, time off, safety, vehicles and conduct for a field crew, with an acknowledgment page."
+permalink: /templates/employee-handbook-template/
 ---
 
 # Free Employee Handbook Template

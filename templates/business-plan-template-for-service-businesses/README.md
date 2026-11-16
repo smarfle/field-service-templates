@@ -1,6 +1,7 @@
 ---
 title: "Free Business Plan Template for Service Businesses"
 description: "Services and pricing, local market, getting customers, startup costs, a first year forecast and break even."
+permalink: /templates/business-plan-template-for-service-businesses/
 ---
 
 # Free Business Plan Template for Service Businesses

@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Invoice Template"
 description: "A printable one-page invoice with a price list, tax, amount paid and balance due, plus a log of every invoice."
+permalink: /templates/google-sheets-invoice-template/
 ---
 
 # Free Google Sheets Invoice Template

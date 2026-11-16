@@ -1,6 +1,7 @@
 ---
 title: "Free Change Order Template"
 description: "Added or removed work, the cost change, the new contract total and completion date, signed by both sides."
+permalink: /templates/change-order-template/
 ---
 
 # Free Change Order Template

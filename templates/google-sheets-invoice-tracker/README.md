@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Invoice Tracker"
 description: "Unpaid balances by age, invoices due this week and a reminder message for each overdue one."
+permalink: /templates/google-sheets-invoice-tracker/
 ---
 
 # Free Google Sheets Invoice Tracker

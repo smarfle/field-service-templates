@@ -1,6 +1,7 @@
 ---
 title: "Free Appointment Spreadsheet"
 description: "Customer bookings with day and week views, double booking alerts and confirmation messages."
+permalink: /templates/appointment-spreadsheet/
 ---
 
 # Free Appointment Spreadsheet

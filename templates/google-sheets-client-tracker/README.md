@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Client Tracker"
 description: "Recurring clients with last and next service dates, retention lists and service due messages."
+permalink: /templates/google-sheets-client-tracker/
 ---
 
 # Free Google Sheets Client Tracker

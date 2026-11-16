@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Time Tracking Template"
 description: "Crew hours by job and client, unpaid breaks, overnight shifts and weekly billable totals."
+permalink: /templates/google-sheets-time-tracking-template/
 ---
 
 # Free Google Sheets Time Tracking Template

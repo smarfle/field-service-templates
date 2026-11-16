@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Timesheet Template"
 description: "A printable weekly timesheet per employee with breaks, overtime and approval lines, plus weekly totals."
+permalink: /templates/google-sheets-timesheet-template/
 ---
 
 # Free Google Sheets Timesheet Template

@@ -1,6 +1,7 @@
 ---
 title: "Free Google Docs Quote Template"
 description: "A fixed-price quote with the scope, line items, tax and a valid-until date, plus a filled sample."
+permalink: /templates/google-docs-quote-template/
 ---
 
 # Free Google Docs Quote Template

@@ -1,6 +1,7 @@
 ---
 title: "Free Independent Contractor Agreement Template"
 description: "Services, payment, contractor status, insurance, confidentiality and ending the agreement."
+permalink: /templates/independent-contractor-agreement-template/
 ---
 
 # Free Independent Contractor Agreement Template

@@ -1,6 +1,7 @@
 ---
 title: "Free Service Contract Template"
 description: "A recurring service agreement with optional lawn care, snow removal, cleaning and HVAC schedules."
+permalink: /templates/service-contract-template/
 ---
 
 # Free Service Contract Template

@@ -1,6 +1,7 @@
 ---
 title: "Free Job Estimate Template"
 description: "Scope, line items, tax, deposit, assumptions and exclusions, with a customer acceptance line."
+permalink: /templates/job-estimate-template/
 ---
 
 # Free Job Estimate Template

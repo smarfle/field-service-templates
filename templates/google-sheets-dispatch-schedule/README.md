@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Dispatch Schedule"
 description: "Jobs by technician and day, booked hours against capacity and a Google Maps route link."
+permalink: /templates/google-sheets-dispatch-schedule/
 ---
 
 # Free Google Sheets Dispatch Schedule

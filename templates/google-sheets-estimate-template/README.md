@@ -1,6 +1,7 @@
 ---
 title: "Free Google Sheets Estimate Template"
 description: "A printable one-page estimate with a price list, an acceptance block and a log of every estimate."
+permalink: /templates/google-sheets-estimate-template/
 ---
 
 # Free Google Sheets Estimate Template
