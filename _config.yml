@@ -6,8 +6,9 @@ baseurl: /field-service-templates
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-readme-index
-  - jekyll-optional-front-matter
   - jekyll-relative-links
 exclude:
   - files
+markdown: kramdown
+kramdown:
+  input: GFM
